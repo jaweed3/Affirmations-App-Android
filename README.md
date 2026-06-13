@@ -6,7 +6,7 @@ Berdasarkan Android Codelab: *Membuat Daftar yang Dapat Di-scroll* (Affirmations
 
 ## Demo
 
-[Link Demo Video]() — *upload video ke YouTube/Drive setelah APK diuji di perangkat.*
+![Demo](demoapp.gif)
 
 ## Identitas
 
