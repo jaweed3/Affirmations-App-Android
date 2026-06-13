@@ -14,5 +14,5 @@ Berdasarkan Android Codelab: *Membuat Daftar yang Dapat Di-scroll* (Affirmations
 - **NIM:** 452024611047
 - **Kelas:** A2
 - **Mata Kuliah:** Pemrograman Mobile
-- **Dosen:** Oddy Virgantara Putra
+- **Dosen:** Wahid Alfaridsi Achmad Zein, M.Kom.
 - **Universitas:** Universitas Darussalam Gontor
